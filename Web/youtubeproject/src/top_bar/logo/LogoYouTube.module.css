@@ -1,0 +1,15 @@
+.logoButton{
+    background-color: white;
+    border: none;
+    outline: none;
+}
+
+.logo{
+    margin-left: 10px;
+    width: 50px;
+}
+
+.darkMode{
+    background-color: #0f0f0f; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}

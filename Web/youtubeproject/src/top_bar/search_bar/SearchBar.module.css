@@ -1,0 +1,31 @@
+
+  .searchBar input {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+  }
+  
+  .searchBar button {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+  } 
+ 
+.searchIcon{
+  position: relative;
+  bottom: 2px;
+  right: 2px;
+}
+
+.darkMode {
+  background-color: #0f0f0f; /* Example dark background */
+  color: #ffffff; /* Example light text color */
+  border-color: #586066;
+}
+
+.darkMode:focus {
+  background-color: #0f0f0f; /* Example dark background */
+  color: #ffffff; /* Example light text color */
+}
+
+
+

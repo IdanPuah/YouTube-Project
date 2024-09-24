@@ -1,0 +1,23 @@
+
+.myCattegoryBottun{
+    border-radius: 1.5rem;
+    border: none;
+    padding: 5px 15px;
+    background-color: #DCDCDC;
+    transition: background-color 0.3s, transform 0.3s; 
+}
+
+.myCattegoryBottun:hover {
+    background-color: #c0c0c0; /* Change background color on hover */
+    transform: scale(1.05); /* Slightly increase size on hover */
+}
+
+.darkMode {
+    background-color: #272727; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}
+
+.darkMode:hover {
+    background-color: #2c2c2c; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}

@@ -1,0 +1,28 @@
+
+/*not in this file*/
+#creator-div {
+    text-align: right;
+}
+/*not in this file*/
+#buttons-section{
+    height: 60px;
+}
+
+/*not in this file*/
+#user-img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+/*not in this file*/
+#user-img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoDiv{
+    height: 100%;
+    margin: 0;
+}

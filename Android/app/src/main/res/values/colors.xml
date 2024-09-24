@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+
+    <color name="like_button_background">#BABABA</color>
+    <color name="button_background">#F0F0F0</color>
+    <color name="separator_line_color">#C0C0C0</color>
+    <color name="material_dynamic_neutral90">#E0E0E0</color>
+    <color name="basic_page_color">#FEF7FF</color>
+    <color name="top_bar_color">#f2f2f2</color>
+
+    <!-- YouTube Red Colors -->
+    <color name="youtube_red">#FF0000</color>
+    <color name="youtube_dark_red">#C20000</color>
+    <color name="youtube_on_red">#FFFFFF</color>
+
+    <!-- Light theme colors -->
+    <color name="light_primary">#FF0000</color>
+    <color name="light_primary_variant">#C20000</color>
+    <color name="light_on_primary">#FFFFFF</color>
+</resources>

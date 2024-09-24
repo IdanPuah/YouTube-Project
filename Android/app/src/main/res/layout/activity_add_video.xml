@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.addvideo.addVideoActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintVertical_bias="0.499"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <ImageView
+            android:id="@+id/LogoButton"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:layout_marginEnd="10dp"
+            android:contentDescription="@string/logoButton_description"
+            app:srcCompat="@drawable/youtube_logo"
+            android:clickable="true"
+            android:focusable="true"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <!-- Title Input -->
+        <EditText
+            android:id="@+id/titleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title" />
+
+        <!-- Creator Input -->
+        <EditText
+            android:id="@+id/creatorEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Creator" />
+
+        <!-- Category Input -->
+        <EditText
+            android:id="@+id/categoryEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category" />
+
+        <!-- Description Input -->
+        <EditText
+            android:id="@+id/descriptionEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description"
+            android:inputType="textMultiLine"
+            android:lines="4" />
+
+        <!-- Year Input -->
+        <EditText
+            android:id="@+id/yearEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Year"
+            android:inputType="number" />
+
+        <!-- Likes Input (optional, can be hidden) -->
+        <EditText
+            android:id="@+id/likesEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Likes"
+            android:inputType="number"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/videoImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/uploadImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload Image"
+            android:layout_marginTop="16dp"
+            android:onClick="onUploadImageButtonClicked" />
+        <Button
+            android:id="@+id/uploadVideoButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Upload Video"
+            android:layout_marginTop="16dp"
+            android:onClick="onUploadVideoButtonClicked" />
+
+        <!-- Add Video Button -->
+        <Button
+            android:id="@+id/addVideoButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_video"
+            android:layout_marginTop="16dp"
+            android:onClick="onAddVideoClicked" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

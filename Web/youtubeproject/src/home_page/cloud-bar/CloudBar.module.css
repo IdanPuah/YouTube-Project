@@ -1,0 +1,19 @@
+.col-2-cloud{
+    width: 15%;
+    padding: 0px;
+}
+.cloud-row{
+    position: relative;
+    left: 280px;
+    width: 80%;
+}
+
+
+.darkMode {
+    background-color: #0f0f0f; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}
+
+.cloudMargin{
+    margin-bottom: 10px;
+}

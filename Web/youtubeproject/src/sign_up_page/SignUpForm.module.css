@@ -1,0 +1,47 @@
+.SignUpForm {
+    width: 100%;
+    max-width: 400px; 
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.Title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.Label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.pageDarkMode {
+    background-color: #242526;
+    color: #ffffff;
+}
+
+.formDarkMode {
+    background-color: #3a3b3c;
+    color: #ffffff;
+    border: none;
+}
+
+.inputDarkMode{
+    background-color: #505253;
+    color: #ffffff;
+}
+
+.inputDarkMode:focus{
+    background-color: #505253;
+    color: #ffffff;
+}
+
+.iconDarkMode {
+    background-color: #505253;
+    color: #ffffff;
+}

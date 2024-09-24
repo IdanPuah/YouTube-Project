@@ -1,0 +1,18 @@
+
+.profilePicture {
+    
+    width: 35px; 
+    height: 35px; 
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+} 
+ .profilePicture:hover {
+    cursor: pointer; 
+    opacity: 0.8; 
+    transform: scale(1.1); 
+    transition: opacity 0.3s ease, transform 0.3s ease; 
+
+}
+
+

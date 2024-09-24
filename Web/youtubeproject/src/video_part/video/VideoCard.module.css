@@ -1,0 +1,42 @@
+
+.videoButtun{
+    border: none;
+}
+
+.videoButtun:hover{
+    cursor: pointer;
+}
+
+.videoCard{
+    border: none!important;
+}
+
+
+.myCardBody{
+    padding: 0;
+}
+
+.dropMenuIcon{
+    padding: 0!important;
+}
+
+.darkMode {
+    background-color: #0f0f0f; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}
+
+.moreOptionBtn{
+    background-color: white;
+    border: none;
+    padding: 0;
+}
+
+.darkModeMoreOptionBtn{
+    background-color: #0f0f0f;
+    color: #ffffff;
+}
+
+.imgDarkMode{
+    background-color: #0f0f0f;
+    color: #ffffff;
+}

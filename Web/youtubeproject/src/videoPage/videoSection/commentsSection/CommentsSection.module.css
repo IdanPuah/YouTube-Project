@@ -1,0 +1,40 @@
+.newCommentText{
+    margin-top: 1%;
+}
+
+.submitButton{
+    width: 100%;
+}
+
+/*not in this file*/
+#comments-block{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.allComments{
+    margin-top: 2%;
+    margin-right: 1%;
+}
+
+.MyBtn{
+    border-radius: 1.5rem;
+    margin-left: 5%;
+}
+
+.darkMode{
+    border-color: #474747;
+    background-color: #272727;
+    color: white;
+}
+
+.darkMode:focus{
+    border-color: #474747;
+    background-color: #272727;
+    color: white;
+}
+
+.darkModeText{
+    color: white;
+}

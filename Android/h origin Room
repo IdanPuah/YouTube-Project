@@ -1,0 +1,99 @@
+* [33m6aa0845[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mRoom[m[33m)[m Work user Room
+* [33m72d0aa8[m first version working with room work only user with room
+[31m|[m * [33m6d6fbe5[m[33m ([m[1;31morigin/Room-w[m[33m, [m[1;32mRoom-w[m[33m)[m first version working with room work only user with room
+[31m|[m[31m/[m  
+* [33md599cca[m[33m ([m[1;31morigin/part3[m[33m, [m[1;32mpart3[m[33m, [m[1;32mRoom-work[m[33m)[m regroup all folders and hirarchy. not works - edit and delete comment, not saved comments
+* [33m0500b8d[m regroup all folders and hirarchy. not works - edit and delete comment, not saved comments
+* [33m98d8314[m first version part 3 copy of part 1
+* [33m6b6706d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Update README.md
+* [33m647ba8e[m Update README.md
+* [33m7118125[m Update README.md
+* [33m0e5fd38[m Update README.md
+* [33md89aa6a[m Update README.md
+* [33me618c46[m Update README.md
+* [33m4a04121[m Update README.md
+* [33m08b6e5a[m Update README.md
+* [33m9d03d03[m Update README.md
+* [33mfb12240[m Update README.md
+* [33m6c3c6b1[m Update README.md
+* [33m0096d36[m change categorys of videos
+*   [33m2a48ce4[m Merge pull request #7 from IdanPuah/user_json
+[33m|[m[34m\[m  
+[33m|[m * [33mc036d53[m add load user from json
+[33m|[m[33m/[m  
+*   [33mdb867a0[m Merge pull request #6 from IdanPuah/merge_branch
+[35m|[m[36m\[m  
+[35m|[m *   [33m23e73d2[m[33m ([m[1;31morigin/merge_branch[m[33m)[m Merge pull request #5 from IdanPuah/idan_fix
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m *   [33m45ad6bc[m Merge branch 'merge_branch' into idan_fix
+[35m|[m [1;31m|[m [1;33m|[m[1;31m\[m  
+[35m|[m [1;31m|[m [1;33m|[m[1;31m/[m  
+[35m|[m [1;31m|[m[1;31m/[m[1;33m|[m   
+[35m|[m * [1;33m|[m [33m6976c35[m[33m ([m[1;32mmerge_branch[m[33m)[m work edit and delete comment only for writer
+[35m|[m * [1;33m|[m [33mdf13904[m changed top bar colors
+[35m|[m [1;34m|[m * [33mb8ab024[m add edit video add to adapter and layout
+[35m|[m [1;34m|[m * [33m2f944e5[m add when logout change the current user
+[35m|[m [1;34m|[m * [33mf0e2ee2[m change validation to sign up
+[35m|[m [1;34m|[m * [33m5d70ca6[m just creator can delete the video
+[35m|[m [1;34m|[m[1;34m/[m  
+[35m|[m * [33m5d071db[m not work swift delete vid
+[35m|[m * [33m77fa4c6[m merge with work search
+[35m|[m * [33m694a335[m start merge
+[35m|[m *   [33m69b1166[m Merge pull request #4 from IdanPuah/video_disaply_merged
+[35m|[m [1;35m|[m[1;36m\[m  
+[35m|[m [1;35m|[m *   [33m243a51a[m[33m ([m[1;31morigin/video_disaply_merged[m[33m)[m Merge branch 'merge_branch' into video_disaply_merged
+[35m|[m [1;35m|[m [31m|[m[1;35m\[m  
+[35m|[m [1;35m|[m [31m|[m[1;35m/[m  
+[35m|[m [1;35m|[m[1;35m/[m[31m|[m   
+[35m|[m * [31m|[m   [33mb5379cb[m Merge pull request #3 from IdanPuah/idan
+[35m|[m [33m|[m[34m\[m [31m\[m  
+[35m|[m [33m|[m * [31m|[m [33m639fbd2[m[33m ([m[1;31morigin/idan[m[33m)[m not change color yet
+[35m|[m [33m|[m * [31m|[m [33m599dc78[m change log out to popover
+[35m|[m [33m|[m * [31m|[m [33m276d5a1[m add search and validation
+[35m|[m [33m|[m[33m/[m [31m/[m  
+[35m|[m * [31m|[m [33m7f7bcf4[m add video and commit
+[35m|[m * [31m|[m   [33mbd198b5[m Merge pull request #2 from IdanPuah/video_disaply_merged
+[35m|[m [35m|[m[36m\[m [31m\[m  
+[35m|[m [35m|[m [36m|[m * [33ma72bfa4[m[33m ([m[1;32mvideo_disaply_merged[m[33m)[m works dark mode and fixed colors
+[35m|[m [35m|[m [36m|[m * [33m73e8f25[m added background colors and darkmode
+[35m|[m [35m|[m [36m|[m * [33m5ddaa46[m 1
+[35m|[m [35m|[m [36m|[m * [33m5912006[m bug when write a comment with user img and go back to main it crashes
+[35m|[m [35m|[m [36m|[m[36m/[m  
+[35m|[m [35m|[m * [33m6ec2632[m works comment that saved for each user need to do display video that upload by user
+[35m|[m [35m|[m * [33m4d7c9c4[m works comment and show vide from json
+[35m|[m [35m|[m * [33ma48fe2a[m works to show video from json
+[35m|[m [35m|[m[35m/[m  
+[35m|[m * [33mb9dc5dd[m unversion files
+[35m|[m * [33m79ec88b[m[33m ([m[1;32mvideo_page[m[33m, [m[1;32mshaked-show-video[m[33m)[m add user instance to video and move from home page to video
+[35m|[m *   [33m99ea22f[m Merge pull request #1 from IdanPuah/shaked-show-video
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m *   [33m950ef0c[m Merge branch 'merge_branch' into shaked-show-video
+[35m|[m [1;31m|[m [1;33m|[m[1;31m\[m  
+[35m|[m [1;31m|[m [1;33m|[m[1;31m/[m  
+[35m|[m [1;31m|[m[1;31m/[m[1;33m|[m   
+[35m|[m * [1;33m|[m [33m26845d3[m[33m ([m[1;31morigin/home_page[m[33m)[m change videos to json and add delete video option
+[35m|[m * [1;33m|[m [33m9a5291b[m add put extra to add video, display new video img
+[35m|[m * [1;33m|[m [33m6b60444[m add global VideosList class
+[35m|[m * [1;33m|[m [33med10a84[m set sign up, still have problem with img,set current user with manager, set it also to login
+[35m|[m * [1;33m|[m [33mdba7d79[m set log out create pop up and interface of log out
+[35m|[m * [1;33m|[m [33m6017e50[m when login save the details
+[35m|[m * [1;33m|[m [33me7b09ab[m add login xml
+[35m|[m * [1;33m|[m [33m4ad33a0[m set add video and change imgs to bitMap
+[35m|[m * [1;33m|[m [33m9520c8a[m set video recycle vies and cattegory button without style
+[35m|[m * [1;33m|[m [33mcef94bc[m add button to the tool bar not ready yet
+[35m|[m[35m/[m [1;33m/[m  
+[35m|[m * [33m4877d64[m bug video resume on stop, need to do global work comments, json videos
+[35m|[m * [33mf25904d[m work only one like/dislike and work local night mode
+[35m|[m * [33mfb3f11f[m work video name from file
+[35m|[m * [33mb2a9977[m get comments and user deatails from diffrent src work with images
+[35m|[m * [33m463e7aa[m nice version works
+[35m|[m * [33me106162[m work features: video likes - red and green button comments
+[35m|[m *   [33m28451ab[m basic version work of show video and comments
+[35m|[m [1;35m|[m[35m\[m  
+[35m|[m [1;35m|[m[35m/[m  
+[35m|[m[35m/[m[1;35m|[m   
+* [1;35m|[m [33m22adfc1[m open android project
+[1;36m|[m * [33m2638b96[m open android project
+[1;36m|[m[1;36m/[m  
+* [33m1c8e972[m open android project
+* [33m17d6bd5[m Initial commit

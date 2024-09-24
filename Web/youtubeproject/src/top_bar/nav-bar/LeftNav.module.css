@@ -1,0 +1,15 @@
+
+.LeftBarWidth{
+    --bs-offcanvas-width: 200px;
+}
+
+.navColor {
+    background-color: #3C3C3C; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}
+
+.listIcon{
+    color: #0d6efd;
+    border: 1;
+    margin: 13px;
+}

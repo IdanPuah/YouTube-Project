@@ -1,0 +1,42 @@
+.comment{
+    background-color: #f2f2f2;
+    border-radius: 1.5rem;
+    margin-bottom: 2%;
+    height: 55px;
+}
+
+.text{
+    margin-bottom: 0;
+}
+
+.commentBtn{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.input{
+    margin-top: 0;
+}
+
+.MyBtn{
+    border-radius: 1.5rem;
+    margin-left: 5%;
+}
+
+
+.darkMode{
+    background-color: #272727;
+    color: white;
+}
+
+.commentContainer{
+    margin-left: 2%;
+}
+
+.dateText {
+    margin-top: 5px; /* Adds space above the date */
+    font-size: 0.875rem; /* Adjusts the font size of the date */
+    color: #6c757d; /* Optional: Sets a muted color for the date text */
+}

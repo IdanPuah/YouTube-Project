@@ -1,0 +1,17 @@
+.categoryName{
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.darkMode{
+    border: none;
+    background-color: #3C3C3C;
+    color: #ffffff;
+}
+
+.darkMode:hover{
+    border: none;
+    background-color: #2e2e2e;
+    color: #ffffff;
+}

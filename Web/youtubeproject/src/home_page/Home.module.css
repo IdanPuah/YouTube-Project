@@ -1,0 +1,10 @@
+
+
+.videos{
+    width: 95%;
+}
+
+.darkMode {
+    background-color: #0f0f0f; /* Example dark background */
+    color: #ffffff; /* Example light text color */
+}

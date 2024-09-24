@@ -1,0 +1,28 @@
+[
+    {
+        "title": "video 1",
+        "author": "Stephen King",
+        "description": "Description of the video 1",
+        "year": "1982",
+        "category": "Sport",
+        "src": "Videos/video1.mp4",
+        "img": "t1",
+        "views": "0",
+        "likes": "0",
+        "comments": "0",
+        "id": "1"
+    },
+    {
+        "title": "video 2",
+        "author": "F. Scott Fitzgerald",
+        "description": "Description of the video 2",
+        "year": "1925",
+        "category": "Sport",
+        "src": "Videos/video2.mp4",
+        "img": "t2",
+        "views": "0",
+        "likes": "0",
+        "comments": "0",
+        "id": "2"
+    }
+    ]

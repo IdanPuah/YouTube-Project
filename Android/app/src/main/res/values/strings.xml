@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">YouTube-Android</string>
+
+    <string name="Like">Like</string>
+    <string name="video_name">Video Name</string>
+    <string name="image_of_user">Image of user</string>
+    <string name="description">Description</string>
+    <string name="like_button">Like Button</string>
+    <string name="dislike_button">Dislike button</string>
+    <string name="user_name">User Name</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="add_comment">Add comment...</string>
+    <string name="enter_comment">Add comment</string>
+    <string name="write_comment">Write comment</string>
+    <string name="sumbit_comment_button">Sumbit comment button</string>
+    <string name="write_comment_here">Write comment here</string>
+    <string name="profile_pic">profile pic</string>
+    <string name="author_name">Author Name</string>
+    <string name="comment_text">Comment text</string>
+
+    <string name="searchView_description">Search View</string>
+    <string name="addVideoButton_description">Description for addVideo button</string>
+    <string name="notificationButton_description">Description for notifications button</string>
+    <string name="logoButton_description">Description for logo button</string>
+    <string name="title_activity_add_video">addVideoActivity</string>
+    <string name="sport">Sport</string>
+    <string name="history">History</string>
+    <string name="health">Health</string>
+    <string name="login">Login</string>
+    <string name="loginButton">Login</string>
+    <string name="username">userName</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="upload_profile_image">Upload Profile Image</string>
+    <string name="enter_id">enter ID</string>
+    <string name="add_video">Add Video</string>
+    <string name="threedotsmenu">threeDotsmenu</string>
+
+    <string name="edit_comment_hint">Enter your comment here</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- change this according to work on your local phone or emulator -->
+
+<!--    android studio emulator-->
+<!--    <string name="BaseUrl">http://10.0.0.14:3300/api/</string>-->
+<!--        <string name="BaseUrl">http://10.0.0.24:3300/api/</string>-->
+    <string name="BaseUrl">http://172.28.236.122:3300/api/</string>
+
+    <!--shaked wifi-->
+<!--    <string name="BaseUrl">http://192.168.1.226:3300/api/</string>-->
+<!--        <string name="BaseUrl">http://10.0.2.2:3300/api/</string>-->
+    <!--shaked wifi-->
+<!--     <string name="BaseUrl">http://192.168.1.178:3300/api/</string> -->
+<!--    shaked phone-->
+<!--    <string name="BaseUrl">http://192.168.116.71:3300/</string>-->
+
+    <string name="deleteButton">DeleteButton</string>
+
+    <string name="verification_password">Verification password</string>
+
+    <string name="edit_video">Edit Video</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="year">Year</string>
+
+    <string name="edit_comment">edit comment</string>
+    <string name="email">Email</string>
+    <string name="log_out">Log Out</string>
+    <string name="edit_user">Edit User</string>
+    <string name="delete_user">Delete User</string>
+
+
+</resources>

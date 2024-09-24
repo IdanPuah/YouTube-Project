@@ -1,0 +1,29 @@
+
+.videoPartContainer {
+    overflow-y: auto; /* or overflow-y: scroll; */
+    max-height: 88%; /* Set a maximum height for scrolling */
+  }
+
+  .videoPartWrapper {
+    height:90vh; /* Ensure the wrapper takes full height */
+  }
+
+
+  /* scroll style */
+  .videoPartContainer::-webkit-scrollbar {
+    width: 10px; /* Set the width of the scrollbar */
+  }
+  
+  .videoPartContainer::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Track color */
+  }
+  
+  .videoPartContainer::-webkit-scrollbar-thumb {
+    background: #888; /* Thumb color */
+    border-radius: 5px; /* Rounded corners for the thumb */
+  }
+  
+  .videoPartContainer::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Thumb color on hover */
+  }
+  

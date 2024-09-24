@@ -1,0 +1,28 @@
+[
+    {
+        "username": "-",
+        "password": "-",
+        "photo": "-",
+        "uploads":"-",
+        "id":"-",
+        "subscription":"-"
+    },
+    {
+        "username": "ploni",
+        "email": "ploni@gmail.com",
+        "password": "123456",
+        "photo": "img1.jpg",
+        "uploads":"0",
+        "id":"123465789",
+        "subscription":"0"
+    },
+    {
+        "username": "aviv",
+        "email": "asd@asd",
+        "password": "123",
+        "photo": "usersImg/aviv.jpg",
+        "uploads":"0",
+        "id":"123465789",
+        "subscription":"0"
+    }
+]

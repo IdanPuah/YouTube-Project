@@ -1,0 +1,262 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- ProgressBar (Spinner) -->
+    <ProgressBar
+        android:id="@+id/loadingSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="visible" /> <!-- Visible by default -->
+
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/loadingSpinner"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <!-- Box 1: VideoView -->
+        <LinearLayout
+            android:id="@+id/box1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="0dp"
+            android:layout_weight="1.2"
+            android:background="@drawable/rounded_background"
+            android:gravity="center"
+            android:orientation="vertical"
+
+            >
+
+            <!-- VideoView -->
+            <VideoView
+                android:id="@+id/videoView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+        <!-- Box 2: Content Below VideoView -->
+        <LinearLayout
+            android:id="@+id/box2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="16dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <!-- Video Name (Larger) -->
+            <TextView
+                android:id="@+id/videoName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="sans-serif-black"
+                android:text="Video Name"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <!-- Video Year -->
+                <TextView
+                    android:id="@+id/videoYear"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Year"
+                    android:textSize="10sp" />
+
+                <!-- Video Category -->
+                <TextView
+                    android:id="@+id/videoCategory"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Category"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+
+            <!-- Video Description (Larger) -->
+            <TextView
+                android:id="@+id/videoDescriptionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_background"
+                android:text="This is a detailed description of the video content. It can span multiple lines and provide more context to the viewer."
+                android:textSize="16sp" />
+
+            <!-- User Info and Rating Section -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical">
+
+                <!-- User Image and Name -->
+                <ImageView
+                    android:id="@+id/userImageView"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/rounded_background" />
+
+                <TextView
+                    android:id="@+id/userNameTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:background="@drawable/rounded_background"
+                    android:text="@string/user_name" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <!-- Like and Dislike Buttons -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rounded_background"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <!-- Like Button -->
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/button_background"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <ImageButton
+                            android:id="@+id/likeButton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/like_button_animation"
+                            android:contentDescription="@string/like_button"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/likesCounter"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical"
+                            android:paddingStart="8dp"
+                            android:text="0"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <!-- Separator Line -->
+                    <View
+                        android:layout_width="3dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginEnd="0dp"
+                        android:background="@color/separator_line_color" />
+
+                    <!-- Dislike Button -->
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/button_background"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <ImageButton
+                            android:id="@+id/dislikeButton"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/dislike_button_animation"
+                            android:contentDescription="@string/dislike"
+                            android:scaleType="fitCenter" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/toggleCommentsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Show Comments"
+                android:layout_marginTop="16dp"
+                android:layout_gravity="center_horizontal" />
+
+            <!-- Comments ListView -->
+            <ListView
+                android:id="@+id/commentsListView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/rounded_background"
+                android:visibility="gone"/>
+
+
+
+            <!-- Comment Input Section -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/commentEditText"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@color/button_background"
+                    android:contentDescription="@string/write_comment_here"
+                    android:fontFamily="sans-serif-condensed-light"
+                    android:hint="@string/add_comment"
+                    android:inputType="text"
+                    android:padding="16dp" />
+
+                <ImageButton
+                    android:id="@+id/imageButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/basic_page_color"
+                    android:padding="16dp"
+                    android:src="@drawable/ic_comment" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+                <!-- Related Videos ListView (or another object) -->
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/relatedVideosRecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+

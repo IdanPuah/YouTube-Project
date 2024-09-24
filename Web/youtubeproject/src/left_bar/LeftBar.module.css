@@ -1,0 +1,16 @@
+
+
+.logo{
+    width: 50px;
+}
+
+.darkModeCategory{
+    margin-bottom: 0;
+    margin-right: 10px;
+}
+
+.darkMode{
+    border: none;
+    background-color: #3C3C3C;
+    color: #ffffff;
+}

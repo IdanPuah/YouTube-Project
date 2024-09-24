@@ -1,0 +1,44 @@
+.myButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.description{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.videoDescription{
+    overflow-y: scroll;
+    background-color: #f2f2f2;
+    height: 100px;
+}
+
+.info{
+    margin-bottom: 1%;
+}
+
+.MyBtn{
+    border-radius: 1.5rem;
+    margin-left: 5%;
+}
+
+.btnPressed{
+    background-color: #474747;
+    color: white;
+}
+
+.darkMode{
+    background-color: #272727;
+    color: white;
+}
+
+.darkModeText{
+    color: white;
+}
+
+.info{
+    margin-bottom: 0%;
+}

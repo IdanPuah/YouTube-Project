@@ -1,0 +1,31 @@
+
+.addVideo::before {
+    border-radius: 50%;
+    background-color: grey;
+    z-index: -1;
+    transform: scale(0);
+    transition: transform 0.3s;
+    transform-origin: center;
+    opacity: 0.5;
+}
+
+.addVideo:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.addVideo:hover::before {
+    transform: scale(1);
+}
+
+.addVideoIcon {
+    color: #0d6efd;
+}
+
+.addVideoBtn {
+    border: none;
+    background-color: transparent;
+}
+
+
+

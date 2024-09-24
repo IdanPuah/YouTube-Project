@@ -1,0 +1,38 @@
+[
+    {
+        "username": "Stephen King",
+        "email": "Stephen-King@gmail.com",
+        "password": "12345678a",
+        "photo": "pic1",
+        "uploads":"1",
+        "id":"123465789",
+        "subscription":"0"
+    },
+    {
+        "username": "F. Scott Fitzgerald",
+        "email": "Scott-Fitzgerald@gmail.com",
+        "password": "12345678a",
+        "photo": "pic1",
+        "uploads":"1",
+        "id":"123465789",
+        "subscription":"0"
+    },
+    {
+        "username": "J.D. Salinger",
+        "email": "J.D.Salinger@gmail.com",
+        "password": "12345678a",
+        "photo": "pic1",
+        "uploads":"1",
+        "id":"123465789",
+        "subscription":"0"
+    },
+    {
+        "username": "Dan Brown",
+        "email": "Dan-Brown@gmail.com",
+        "password": "12345678a",
+        "photo": "pic1",
+        "uploads":"7",
+        "id":"123465789",
+        "subscription":"0"
+    }
+]

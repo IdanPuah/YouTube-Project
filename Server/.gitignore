@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore build output
+/build
+/dist
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore dependencies
+/node_modules
