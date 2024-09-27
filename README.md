@@ -54,8 +54,8 @@ This project demonstrates the integration of modern web technologies, mobile dev
 ### Home Page
 
 - **Display Videos**: View a list of videos that have been uploaded.
-- 
-  <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/8140bde0-dadc-482b-8b4e-dd701f408f98" width="150">
+
+  <img src="https://github.com/user-attachments/assets/c5b1f264-5002-4131-a7d7-1d35a282767b" width="150">
 
 - **Dark/Light Mode**: Automatically switch between dark and light themes based on user preference.
 - **Dark Mode Button**: A specific button to toggle between dark and light modes manually.
@@ -66,8 +66,8 @@ This project demonstrates the integration of modern web technologies, mobile dev
 
 - **Create New User**:
   - **Signup**: Register a new user with a username and password.
-  - 
-    <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/d285a066-045c-4cd9-9e5e-b828584da84e" width="150">
+    
+    <img src="https://github.com/user-attachments/assets/8a9abae1-9c81-4e3a-b25e-ae12a1a5009c" width="150">
 
   - **Validation**: Ensure the username is unique and the password meets security requirements.
   - **Profile Image**: Upload a user profile image or use a default image if none is provided.
@@ -75,13 +75,13 @@ This project demonstrates the integration of modern web technologies, mobile dev
 - **Sign In**:
   - **Login**: Sign in to an existing user account.
   - **User Abilities**: Authenticated users can comment, like videos, and more.
-  - 
-  <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/5044050e-3c46-440d-b7f6-d598dbd803a0" width="150">
+    
+  <img src="https://github.com/user-attachments/assets/1b1ec322-f583-45af-95f4-f709898a97b2" width="150">
 
 - **Logout**:
   - **Logout**: Users can log out of their accounts.
-  - 
-  <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/aff560b8-2b74-42a2-9260-378e1f957921" width="150">
+    
+  <img src="https://github.com/user-attachments/assets/80cba9f8-bef8-4d85-873e-4561c1568bae" width="150">
 
 ### Watch Video Page
 
@@ -90,17 +90,17 @@ This project demonstrates the integration of modern web technologies, mobile dev
 - **Comments**: Authenticated users can comment on videos.
   - **Edit Comments**: Users can edit their own comments.
   - **Delete Comments**: Users can delete their own comments.
-  - 
-  <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/3b176aed-7ad5-49b4-ad77-f7bb31c1536c" width="150">
-  <img src="https://github.com/IdanPuah/YouTube-project-android/assets/130215814/7916542d-082f-4f20-9b2b-1699e2e91302" width="150">
+
+  <img src="https://github.com/user-attachments/assets/f97da89b-f0a7-4430-806c-0b74d1d1d7ca" width="150">
+  <img src="https://github.com/user-attachments/assets/dd79a134-b85b-4337-9d66-d4c8f6f4032c" width="150">
 
 ### Delete video
 
-<img src="https://github.com/user-attachments/assets/11451d92-532a-4a1b-a266-c4279adca141" width="150">
+<img src="https://github.com/user-attachments/assets/14860ff5-b1c7-46a0-8825-da6964efd285" width="150">
 
 ### Search video
 
-<img src="https://github.com/user-attachments/assets/c22c0074-94b3-40f3-9964-e6e43ca28702" width="150">
+<img src="https://github.com/user-attachments/assets/d6f20f9b-7d4a-4d5d-a024-c4e280b513d8" width="150">
 
 
 ### Video Management
