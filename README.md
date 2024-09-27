@@ -14,40 +14,40 @@ This project demonstrates the integration of modern web technologies, mobile dev
 
 ### Home Page
 
-<img src="https://github.com/user-attachments/assets/87022f4a-9b40-470b-92f7-67931085b97e" width="400">
-<img src="https://github.com/user-attachments/assets/afc0a097-b953-4e8a-8198-b20a2c40b85c" width="400">
+<img src="https://github.com/user-attachments/assets/87022f4a-9b40-470b-92f7-67931085b97e" width="450">
+<img src="https://github.com/user-attachments/assets/afc0a097-b953-4e8a-8198-b20a2c40b85c" width="450">
 
 ### Video Page
-<img src="https://github.com/user-attachments/assets/166a84de-06e2-4f59-9652-7029ddd5f35a" width="300">
-<img src="https://github.com/user-attachments/assets/38de531c-85d6-479d-927e-7ed34cc2e276" width="300">
+<img src="https://github.com/user-attachments/assets/166a84de-06e2-4f59-9652-7029ddd5f35a" width="450">
+<img src="https://github.com/user-attachments/assets/38de531c-85d6-479d-927e-7ed34cc2e276" width="450">
 
 ### Sign In
-<img src="https://github.com/user-attachments/assets/81fef4df-5f15-4e09-9fe3-319b2d1a4d9e" width="300">
-<img src="https://github.com/user-attachments/assets/53e79af6-6b8f-4318-ab93-e42877fc4ba4" width="300">
+<img src="https://github.com/user-attachments/assets/81fef4df-5f15-4e09-9fe3-319b2d1a4d9e" width="450">
+<img src="https://github.com/user-attachments/assets/53e79af6-6b8f-4318-ab93-e42877fc4ba4" width="450">
 
 ### Sign Up
 
-<img src="https://github.com/user-attachments/assets/6a5f469d-2dfc-4b7d-a5bd-8561881455ec" width="300">
-<img src="https://github.com/user-attachments/assets/d87a2f74-8d91-4e70-a1d0-7e832d3ff8e4" width="300">
+<img src="https://github.com/user-attachments/assets/6a5f469d-2dfc-4b7d-a5bd-8561881455ec" width="450">
+<img src="https://github.com/user-attachments/assets/d87a2f74-8d91-4e70-a1d0-7e832d3ff8e4" width="450">
 
 ### Add video
-<img src="https://github.com/user-attachments/assets/2484d5a3-ce9c-4ff0-9074-15ad770a7377" width="300">
+<img src="https://github.com/user-attachments/assets/2484d5a3-ce9c-4ff0-9074-15ad770a7377" width="450">
 
 ### Edit Video
 
-<img src="https://github.com/user-attachments/assets/cb11282f-a14c-4c91-ab18-e214b08a7336" width="300">
+<img src="https://github.com/user-attachments/assets/cb11282f-a14c-4c91-ab18-e214b08a7336" width="450">
 
 ### Delete video
 
-<img src="https://github.com/user-attachments/assets/24231b1d-0261-45a9-ab1b-ba828dbdbb86" width="300">
+<img src="https://github.com/user-attachments/assets/24231b1d-0261-45a9-ab1b-ba828dbdbb86" width="450">
 
 ### Search for video
 
-<img src="https://github.com/user-attachments/assets/0ebbc9c4-1592-40cd-be1c-dc0b2926331f" width="300">
+<img src="https://github.com/user-attachments/assets/0ebbc9c4-1592-40cd-be1c-dc0b2926331f" width="450">
 
 ### Menu
 
-<img src="https://github.com/user-attachments/assets/563b3a01-3bdd-4ced-9024-cdc6432f32a4" width="300">
+<img src="https://github.com/user-attachments/assets/563b3a01-3bdd-4ced-9024-cdc6432f32a4" width="450">
 
 ## Android Application
 
