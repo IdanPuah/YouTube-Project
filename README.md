@@ -14,7 +14,7 @@ This project demonstrates the integration of modern web technologies, mobile dev
 
 ### Home Page
  
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/e4f3f985-ffbc-4458-8bd5-091532530e36" width="300">
+<img src="https://github.com/IdanPuah/YouTube-Project/assets/145895129/e4f3f985-ffbc-4458-8bd5-091532530e36" width="300">
 <img src="https://github.com/avivyair/YoutubeProject/assets/145895129/4de58eb7-609e-431f-8d9d-1090480ed99b" width="300">
 
 ### Video Page
