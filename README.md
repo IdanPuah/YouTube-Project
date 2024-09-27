@@ -14,43 +14,40 @@ This project demonstrates the integration of modern web technologies, mobile dev
 
 ### Home Page
 
-<img src="https://github.com/user-attachments/assets/87022f4a-9b40-470b-92f7-67931085b97e" width="300">
-<img src="https://github.com/user-attachments/assets/afc0a097-b953-4e8a-8198-b20a2c40b85c" width="300">
+<img src="https://github.com/user-attachments/assets/87022f4a-9b40-470b-92f7-67931085b97e" width="400">
+<img src="https://github.com/user-attachments/assets/afc0a097-b953-4e8a-8198-b20a2c40b85c" width="400">
 
 ### Video Page
-
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/12070217-72e8-4a1a-a8e0-b4c1dae8229b" width="300">
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/ee0b6da9-d0b9-4a9d-b30e-8db8fef88efb" width="300">
+<img src="https://github.com/user-attachments/assets/166a84de-06e2-4f59-9652-7029ddd5f35a" width="300">
+<img src="https://github.com/user-attachments/assets/38de531c-85d6-479d-927e-7ed34cc2e276" width="300">
 
 ### Sign In
-
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/98c5700c-65ab-4ad8-9404-f6244753e0f7" width="300">
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/42411ae2-4398-40de-8ab2-4c74e0f77ffa" width="300">
+<img src="https://github.com/user-attachments/assets/81fef4df-5f15-4e09-9fe3-319b2d1a4d9e" width="300">
+<img src="https://github.com/user-attachments/assets/53e79af6-6b8f-4318-ab93-e42877fc4ba4" width="300">
 
 ### Sign Up
 
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/9a26ebe0-da3e-40e3-9fea-3ab87f491ee5" width="300">
-<img src="https://github.com/avivyair/YoutubeProject/assets/145895129/51299440-812f-454d-b938-58ac3d9dfc20" width="300">
+<img src="https://github.com/user-attachments/assets/6a5f469d-2dfc-4b7d-a5bd-8561881455ec" width="300">
+<img src="https://github.com/user-attachments/assets/d87a2f74-8d91-4e70-a1d0-7e832d3ff8e4" width="300">
 
 ### Add video
-
-<img src="https://github.com/user-attachments/assets/8a62b14e-7df4-44e8-9a5a-da2624d9a199" width="300">
+<img src="https://github.com/user-attachments/assets/2484d5a3-ce9c-4ff0-9074-15ad770a7377" width="300">
 
 ### Edit Video
 
-<img src="https://github.com/user-attachments/assets/d18a7a61-7275-474f-bb7e-fadd8f98c5b0" width="300">
+<img src="https://github.com/user-attachments/assets/cb11282f-a14c-4c91-ab18-e214b08a7336" width="300">
 
 ### Delete video
 
-<img src="https://github.com/user-attachments/assets/907bf36f-b645-4053-85ff-3c0c1ca4937a" width="300">
+<img src="https://github.com/user-attachments/assets/24231b1d-0261-45a9-ab1b-ba828dbdbb86" width="300">
 
 ### Search for video
 
-<img src="https://github.com/user-attachments/assets/6855780e-5fcc-45c0-9b52-4e70cdb283d0" width="300">
+<img src="https://github.com/user-attachments/assets/0ebbc9c4-1592-40cd-be1c-dc0b2926331f" width="300">
 
 ### Menu
 
-<img src="https://github.com/user-attachments/assets/91c174cb-b3ad-4a2f-b11d-0fca26b951a9" width="300">
+<img src="https://github.com/user-attachments/assets/563b3a01-3bdd-4ced-9024-cdc6432f32a4" width="300">
 
 ## Android Application
 
